@@ -1,0 +1,82 @@
+.banty{
+    display: flex;  /* Even spacing between images */
+    width: 100%; /* Make sure it spans full width */
+    max-width: 900px;
+    justify-items: center; 
+    margin-left: 150px;
+}
+#imgg{
+    height: 250px;
+    width: 400px;
+}
+.banty1{
+    display: flex;  /* Even spacing between images */
+    width: 100%; /* Make sure it spans full width */
+   
+    margin-left: 150px;
+}
+#imgg1{
+    height: 200px;
+    width: 200px;
+}
+.ammu{
+    display: flex;
+}
+.ammu2{
+    margin-left: 158px;
+    display: flex;
+}
+#imgg3{
+    height: 250px;
+    width: 450px;
+}
+.prantha{
+    display: flex;  /* Even spacing between images */
+    width: 100%;
+}
+.btn{
+    padding: 20px 77px;
+
+}
+.great{ 
+    gap: 20px;
+    margin-left: 158px;
+}
+.great-img{
+    height: 30px;
+    width: 30px;
+    margin: 25%;
+}
+.great-div{
+    display: flex;
+}
+.click-btn{
+    padding: 25px 70px;
+}
+.great-div-cls{
+    height: 75px; 
+    width: 75px;
+    border: 2px solid rgb(135, 215, 252);
+}
+.box{
+    width: 363px;
+    height: 300px;
+    border: 2px solid rgb(5, 5, 255);
+    padding: 10px 10px;
+    align-items: center;
+}
+#ammu{
+    height: 195px;
+    width: 195px;
+}
+.btn-btn{
+    padding: 18px 35px;
+    border: none; 
+    color: blue;
+    border: none;
+}
+.src{
+    height: 40px;
+    width: 40px;
+    margin: 10px 10px;
+}
